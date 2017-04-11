@@ -28,8 +28,8 @@ Change Log
         * :doc:`../Appendix/CreateProjectFromBlank` 
         
     * -  
-	  - :doc:`../Introduction/CriteriaBasedMapping`  
-	  - Description details added  
+      - :doc:`../Introduction/CriteriaBasedMapping`  
+      - Description details added  
   
 	* Added a table that summarizes the mapping related to security measures from CVE perspective(\ `guideline#2439 <https://github.com/terasolunaorg/guideline/issues/2439>`_\ )  
 

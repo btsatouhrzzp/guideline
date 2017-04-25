@@ -126,7 +126,7 @@ Chromeのアプリケーション一覧を開く(ブラウザのアドレスバ�
      -DarchetypeVersion=1.0.6.RELEASE^
      -DgroupId=todo^
      -DartifactId=todo-api^
-     -Dversion=1.0-SNAPSHOT
+     -Dversion=1.0.0-SNAPSHOT
 
 コンソール上に以下のようなログが表示されれば、ブランクプロジェクトの作成は成功となる。
 
@@ -139,7 +139,7 @@ Chromeのアプリケーション一覧を開く(ブラウザのアドレスバ�
     More?  -DarchetypeVersion=1.0.6.RELEASE^
     More?  -DgroupId=todo^
     More?  -DartifactId=todo-api^
-    More?  -Dversion=1.0-SNAPSHOT
+    More?  -Dversion=1.0.0-SNAPSHOT
     [INFO] Scanning for projects...
     [INFO]
     [INFO] ------------------------------------------------------------------------
@@ -158,11 +158,11 @@ Chromeのアプリケーション一覧を開く(ブラウザのアドレスバ�
     [INFO] ----------------------------------------------------------------------------
     [INFO] Parameter: groupId, Value: todo
     [INFO] Parameter: artifactId, Value: todo-api
-    [INFO] Parameter: version, Value: 1.0-SNAPSHOT
+    [INFO] Parameter: version, Value: 1.0.0-SNAPSHOT
     [INFO] Parameter: package, Value: todo
     [INFO] Parameter: packageInPathFormat, Value: todo
     [INFO] Parameter: package, Value: todo
-    [INFO] Parameter: version, Value: 1.0-SNAPSHOT
+    [INFO] Parameter: version, Value: 1.0.0-SNAPSHOT
     [INFO] Parameter: groupId, Value: todo
     [INFO] Parameter: artifactId, Value: todo-api
     [INFO] project created from Archetype in dir: C:\workspace\todo-api

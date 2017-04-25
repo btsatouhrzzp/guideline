@@ -93,7 +93,7 @@ URL一覧を以下に示す。
      -DarchetypeVersion=1.0.6.RELEASE^
      -DgroupId=com.example.security^
      -DartifactId=first-springsecurity^
-     -Dversion=1.0-SNAPSHOT
+     -Dversion=1.0.0-SNAPSHOT
 
 コンソール上に以下のようなログが表示されれば、ブランクプロジェクトの作成は成功となる。
 
@@ -106,7 +106,7 @@ URL一覧を以下に示す。
     More?  -DarchetypeVersion=1.0.6.RELEASE^
     More?  -DgroupId=com.example.security^
     More?  -DartifactId=first-springsecurity^
-    More?  -Dversion=1.0-SNAPSHOT
+    More?  -Dversion=1.0.0-SNAPSHOT
     [INFO] Scanning for projects...
     [INFO]
     [INFO] ------------------------------------------------------------------------
@@ -125,11 +125,11 @@ URL一覧を以下に示す。
     [INFO] ----------------------------------------------------------------------------
     [INFO] Parameter: groupId, Value: com.example.security
     [INFO] Parameter: artifactId, Value: first-springsecurity
-    [INFO] Parameter: version, Value: 1.0-SNAPSHOT
+    [INFO] Parameter: version, Value: 1.0.0-SNAPSHOT
     [INFO] Parameter: package, Value: com.example.security
     [INFO] Parameter: packageInPathFormat, Value: com/example/security
     [INFO] Parameter: package, Value: com.example.security
-    [INFO] Parameter: version, Value: 1.0-SNAPSHOT
+    [INFO] Parameter: version, Value: 1.0.0-SNAPSHOT
     [INFO] Parameter: groupId, Value: com.example.security
     [INFO] Parameter: artifactId, Value: first-springsecurity
     [INFO] project created from Archetype in dir: C:\work\first-springsecurity
